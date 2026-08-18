@@ -1,0 +1,226 @@
+[
+  {
+    "slug": "10-ferramentas-de-ia-que-podem-economizar-horas-do-seu-dia",
+    "title": "10 ferramentas de IA que podem economizar horas do seu dia",
+    "excerpt": "Um raio-x prático das ferramentas que realmente entregam produtividade, sem enrolação — o que cada uma resolve e quando vale a pena usar.",
+    "category": "produtividade",
+    "date": "2026-08-12",
+    "updatedAt": "2026-08-12",
+    "readTime": 7,
+    "author": "Equipe Somos Impulso",
+    "coverGradient": "thumb-1",
+    "body": [
+      { "type": "p", "text": "Testar uma ferramenta nova toda semana consome mais tempo do que economiza. A lista abaixo prioriza o que resolve tarefas reais do dia a dia — escrever, organizar, criar imagens e automatizar — sem exigir curva de aprendizado longa." },
+      { "type": "h2", "text": "Para escrever e revisar textos" },
+      { "type": "p", "text": "Assistentes como ChatGPT e Claude ajudam a estruturar e-mails, propostas e relatórios em minutos. O ganho maior não é escrever do zero, e sim revisar um rascunho seu — pedir para deixar mais direto, mais formal, ou resumir em três tópicos." },
+      { "type": "h2", "text": "Para organizar o trabalho" },
+      { "type": "p", "text": "Ferramentas como Notion AI resumem reuniões longas e transformam anotações soltas em listas de tarefas. Isso evita reler documentos inteiros só para lembrar o que foi decidido." },
+      { "type": "h2", "text": "Para criar imagens e design" },
+      { "type": "p", "text": "Canva com recursos de IA resolve 80% das necessidades de quem não é designer: posts para redes sociais, banners e apresentações. Para peças mais elaboradas, Midjourney entrega qualidade visual superior, mas com curva de aprendizado maior." },
+      { "type": "h2", "text": "Para pesquisar com mais confiança" },
+      { "type": "p", "text": "Perplexity é útil quando você precisa de uma resposta rápida com fonte citada, em vez de abrir dez abas do navegador para checar a mesma informação." },
+      { "type": "h2", "text": "Como escolher por onde começar" },
+      { "type": "ul", "items": [
+        "Se seu maior gargalo é escrever, comece por um assistente de texto (ChatGPT ou Claude).",
+        "Se é organização, teste o Notion AI antes de adicionar mais um app à rotina.",
+        "Se é design, Canva resolve o essencial sem custo alto de aprendizado."
+      ]},
+      { "type": "p", "text": "O erro mais comum é tentar adotar cinco ferramentas ao mesmo tempo. Escolha uma, use por duas semanas em tarefas reais, e só então avalie se vale adicionar outra." }
+    ],
+    "relatedSlugs": ["chatgpt-vs-claude-qual-escolher", "7-maneiras-de-usar-ia-para-aumentar-sua-produtividade"]
+  },
+  {
+    "slug": "como-criar-um-site-usando-inteligencia-artificial",
+    "title": "Como criar um site usando Inteligência Artificial",
+    "excerpt": "Passo a passo para sair da ideia ao site publicado, mesmo sem saber programar — as decisões que realmente importam antes de começar.",
+    "category": "guias",
+    "date": "2026-08-08",
+    "updatedAt": "2026-08-08",
+    "readTime": 10,
+    "author": "Equipe Somos Impulso",
+    "coverGradient": "thumb-2",
+    "body": [
+      { "type": "p", "text": "Criar um site com apoio de IA não elimina decisões importantes — só acelera a execução delas. Este guia cobre o caminho na ordem certa, para você não gastar tempo em detalhes visuais antes de resolver o essencial." },
+      { "type": "h2", "text": "1. Defina o objetivo antes da ferramenta" },
+      { "type": "p", "text": "Um site institucional, uma loja e um blog têm arquiteturas diferentes. Escrever em uma frase o que o visitante deve conseguir fazer no site evita retrabalho depois." },
+      { "type": "h2", "text": "2. Escolha a abordagem certa para o seu caso" },
+      { "type": "ul", "items": [
+        "Construtores visuais (ex: Webflow, Framer): bons para quem quer publicar rápido sem código, com boa aparência padrão.",
+        "IA generativa de código (assistentes como Claude ou ChatGPT): boa para quem quer algo sob medida e tem alguém acompanhando o processo técnico.",
+        "WordPress: familiar, com grande ecossistema de plugins, mas exige mais manutenção."
+      ]},
+      { "type": "h2", "text": "3. Use a IA para acelerar, não para decidir sozinha" },
+      { "type": "p", "text": "A IA é excelente para gerar a primeira versão de textos, estrutura de páginas e até componentes de código. Mas decisões de marca, identidade visual e tom de voz devem vir de você — peça sugestões, não decisões finais." },
+      { "type": "h2", "text": "4. Pense em SEO desde o início" },
+      { "type": "p", "text": "Título de página, descrição e URLs amigáveis custam pouco para configurar no começo e são caros para corrigir depois que o site já tem tráfego. Peça para a IA já sugerir esses elementos junto com o conteúdo." },
+      { "type": "h2", "text": "5. Publique uma versão simples primeiro" },
+      { "type": "p", "text": "Um site simples no ar hoje vale mais do que um site perfeito publicado daqui a três meses. Publique o essencial, colete feedback real e refine depois." }
+    ],
+    "relatedSlugs": ["o-que-e-engenharia-de-prompt", "10-ferramentas-de-ia-que-podem-economizar-horas-do-seu-dia"]
+  },
+  {
+    "slug": "chatgpt-vs-claude-qual-escolher",
+    "title": "ChatGPT vs Claude: qual escolher para o seu dia a dia?",
+    "excerpt": "Comparamos pontos fortes, limitações e casos de uso reais de cada ferramenta para ajudar você a decidir sem achismo.",
+    "category": "ferramentas",
+    "date": "2026-08-03",
+    "updatedAt": "2026-08-03",
+    "readTime": 9,
+    "author": "Equipe Somos Impulso",
+    "coverGradient": "thumb-3",
+    "body": [
+      { "type": "p", "text": "Não existe resposta única para 'qual é melhor' — existe a pergunta certa: melhor para o quê? Abaixo comparamos os dois pelos critérios que mais pesam no uso do dia a dia." },
+      { "type": "h2", "text": "Redação e comunicação no dia a dia" },
+      { "type": "p", "text": "Os dois são fortes em redigir e-mails, resumir textos e ajustar o tom de uma mensagem. A diferença costuma aparecer em tarefas longas ou documentos extensos, onde manter contexto e consistência importa mais." },
+      { "type": "h2", "text": "Análise de documentos longos" },
+      { "type": "p", "text": "Quando o trabalho envolve ler, resumir ou revisar documentos grandes — contratos, relatórios, artigos — vale testar como cada ferramenta lida com arquivos extensos na sua conta atual, já que os limites mudam com frequência." },
+      { "type": "h2", "text": "Programação" },
+      { "type": "p", "text": "Ambas ajudam a escrever, explicar e revisar código. Para projetos maiores, o que costuma fazer diferença é a experiência de manter o contexto de vários arquivos ao longo de uma conversa mais longa." },
+      { "type": "h2", "text": "Integração com outras ferramentas" },
+      { "type": "p", "text": "Se você já usa bastante o ecossistema de um fornecedor específico (Google, Microsoft, etc.), a integração nativa pode pesar mais do que a diferença de qualidade das respostas." },
+      { "type": "h2", "text": "Conclusão prática" },
+      { "type": "p", "text": "Para a maioria das pessoas, a melhor estratégia é testar as duas em tarefas reais da sua rotina por uma semana, prestando atenção em qual delas exige menos edição depois da resposta pronta — esse é o indicador mais confiável do que qualquer comparação genérica." }
+    ],
+    "relatedSlugs": ["10-ferramentas-de-ia-que-podem-economizar-horas-do-seu-dia", "ia-generativa-o-que-e-e-como-funciona"]
+  },
+  {
+    "slug": "como-usar-inteligencia-artificial-para-estudar-melhor",
+    "title": "Como usar Inteligência Artificial para estudar melhor",
+    "excerpt": "Técnicas práticas para transformar um assistente de IA em ferramenta de estudo, sem cair na armadilha de só copiar respostas prontas.",
+    "category": "inteligencia-artificial",
+    "date": "2026-07-29",
+    "updatedAt": "2026-07-29",
+    "readTime": 8,
+    "author": "Equipe Somos Impulso",
+    "coverGradient": "thumb-1",
+    "body": [
+      { "type": "p", "text": "Usar IA para estudar pode significar duas coisas bem diferentes: pedir a resposta pronta, ou usar a ferramenta para entender melhor o assunto. Só a segunda realmente ajuda no longo prazo." },
+      { "type": "h2", "text": "Peça explicações, não só respostas" },
+      { "type": "p", "text": "Em vez de perguntar 'qual é a resposta', pergunte 'explique como se eu tivesse acabado de aprender o assunto' ou 'me dê um exemplo prático disso'. Isso força a IA a ensinar, não só entregar." },
+      { "type": "h2", "text": "Use a técnica do professor reverso" },
+      { "type": "p", "text": "Explique o assunto para a IA como se ela fosse a aluna. Se você conseguir explicar com clareza, você realmente entendeu. Se travar, é sinal de qual parte revisar." },
+      { "type": "h2", "text": "Gere questões de prática" },
+      { "type": "p", "text": "Peça para a IA criar perguntas sobre o material que você estudou, incluindo pegadinhas comuns do tema. Isso simula uma prova antes da prova de verdade." },
+      { "type": "h2", "text": "Resuma com suas palavras, depois compare" },
+      { "type": "p", "text": "Escreva seu próprio resumo primeiro. Só depois peça para a IA revisar e apontar o que ficou faltando. Isso evita que o resumo saia todo pronto sem passar pelo seu raciocínio." },
+      { "type": "h2", "text": "O limite importante" },
+      { "type": "p", "text": "IA pode errar, especialmente em detalhes específicos ou números. Trate as respostas como ponto de partida para checar em fontes confiáveis, não como verdade final — principalmente em provas e trabalhos avaliados." }
+    ],
+    "relatedSlugs": ["o-que-e-engenharia-de-prompt", "7-maneiras-de-usar-ia-para-aumentar-sua-produtividade"]
+  },
+  {
+    "slug": "7-maneiras-de-usar-ia-para-aumentar-sua-produtividade",
+    "title": "7 maneiras de usar IA para aumentar sua produtividade",
+    "excerpt": "Aplicações práticas que cabem na rotina de quem trabalha, empreende ou estuda — sem depender de conhecimento técnico.",
+    "category": "produtividade",
+    "date": "2026-07-24",
+    "updatedAt": "2026-07-24",
+    "readTime": 7,
+    "author": "Equipe Somos Impulso",
+    "coverGradient": "thumb-2",
+    "body": [
+      { "type": "p", "text": "Produtividade com IA não é sobre automatizar tudo — é sobre tirar de você as tarefas repetitivas que consomem tempo e energia sem exigir julgamento humano." },
+      { "type": "h2", "text": "1. Triagem de e-mails" },
+      { "type": "p", "text": "Peça um resumo de e-mails longos antes de decidir se vale a pena ler tudo." },
+      { "type": "h2", "text": "2. Primeiras versões de documentos" },
+      { "type": "p", "text": "Deixe a IA gerar o primeiro rascunho de propostas, atas e relatórios. Editar é sempre mais rápido do que escrever do zero." },
+      { "type": "h2", "text": "3. Preparação de reuniões" },
+      { "type": "p", "text": "Peça uma pauta estruturada a partir de tópicos soltos que você quer discutir." },
+      { "type": "h2", "text": "4. Organização de tarefas" },
+      { "type": "p", "text": "Transforme uma lista bagunçada de pendências em tarefas priorizadas por urgência e impacto." },
+      { "type": "h2", "text": "5. Estudo rápido de um assunto novo" },
+      { "type": "p", "text": "Peça uma explicação de nível iniciante antes de uma reunião ou decisão sobre um tema que você não domina." },
+      { "type": "h2", "text": "6. Revisão de textos" },
+      { "type": "p", "text": "Peça para revisar clareza, tom e erros antes de enviar qualquer coisa importante." },
+      { "type": "h2", "text": "7. Automação de tarefas repetitivas" },
+      { "type": "p", "text": "Ferramentas de automação combinadas com IA podem conectar aplicativos que você já usa, eliminando cópia e cola manual entre sistemas." },
+      { "type": "p", "text": "Comece por uma dessas sete. Ganhar confiança em uma aplicação de cada vez rende mais do que tentar mudar toda a rotina de uma vez." }
+    ],
+    "relatedSlugs": ["10-ferramentas-de-ia-que-podem-economizar-horas-do-seu-dia", "como-comecar-a-trabalhar-com-inteligencia-artificial-em-2026"]
+  },
+  {
+    "slug": "o-que-e-engenharia-de-prompt",
+    "title": "O que é Engenharia de Prompt?",
+    "excerpt": "O nome parece técnico, mas o conceito é simples: como pedir as coisas de um jeito que a IA entenda melhor o que você quer.",
+    "category": "inteligencia-artificial",
+    "date": "2026-07-18",
+    "updatedAt": "2026-07-18",
+    "readTime": 6,
+    "author": "Equipe Somos Impulso",
+    "coverGradient": "thumb-3",
+    "body": [
+      { "type": "p", "text": "Engenharia de prompt é a prática de escrever instruções mais claras para obter respostas melhores de uma IA. Não é um código secreto — é comunicação bem feita." },
+      { "type": "h2", "text": "Por que isso importa" },
+      { "type": "p", "text": "Duas pessoas podem fazer a mesma pergunta de formas diferentes e receber respostas de qualidade muito diferente. A diferença geralmente está em quanto contexto foi dado." },
+      { "type": "h2", "text": "Os quatro elementos de um bom prompt" },
+      { "type": "ul", "items": [
+        "Contexto: quem é você e qual é a situação.",
+        "Tarefa: o que exatamente você quer que a IA faça.",
+        "Formato: como você quer receber a resposta (lista, tabela, texto corrido).",
+        "Restrições: tamanho, tom, o que evitar."
+      ]},
+      { "type": "h2", "text": "Exemplo prático" },
+      { "type": "p", "text": "Em vez de 'escreva um post sobre produtividade', tente: 'Você é redator de um blog sobre tecnologia para iniciantes. Escreva um post de 300 palavras sobre produtividade, com tom direto, sem jargão técnico, terminando com uma dica prática'." },
+      { "type": "h2", "text": "O hábito que mais faz diferença" },
+      { "type": "p", "text": "Trate a primeira resposta como um rascunho, não como resultado final. Peça ajustes específicos ('mais curto', 'mais direto', 'tire o parágrafo sobre X') em vez de recomeçar do zero." }
+    ],
+    "relatedSlugs": ["como-usar-inteligencia-artificial-para-estudar-melhor", "ia-generativa-o-que-e-e-como-funciona"]
+  },
+  {
+    "slug": "como-comecar-a-trabalhar-com-inteligencia-artificial-em-2026",
+    "title": "Como começar a trabalhar com Inteligência Artificial em 2026",
+    "excerpt": "Um caminho realista para quem quer migrar de carreira ou incluir IA no currículo, sem precisar virar programador.",
+    "category": "negocios",
+    "date": "2026-07-10",
+    "updatedAt": "2026-07-10",
+    "readTime": 9,
+    "author": "Equipe Somos Impulso",
+    "coverGradient": "thumb-1",
+    "body": [
+      { "type": "p", "text": "Trabalhar 'com IA' não significa necessariamente programar modelos de IA. A maior parte das oportunidades hoje está em usar bem essas ferramentas dentro de uma função já existente — marketing, atendimento, vendas, design, operações." },
+      { "type": "h2", "text": "Os caminhos mais realistas" },
+      { "type": "ul", "items": [
+        "Especialista em aplicar IA na sua área atual (ex: marketing com IA, atendimento com IA).",
+        "Automação de processos com ferramentas no-code combinadas com IA.",
+        "Criação de conteúdo e prompts para empresas que ainda não sabem usar essas ferramentas.",
+        "Áreas técnicas (dados, engenharia de IA), que exigem formação mais longa e específica."
+      ]},
+      { "type": "h2", "text": "Por onde começar sem curso caro" },
+      { "type": "p", "text": "Use ferramentas de IA na sua rotina atual de trabalho por algumas semanas, documentando o que funcionou. Isso já vira portfólio: 'automatizei X', 'reduzi o tempo de Y usando Z'." },
+      { "type": "h2", "text": "O que realmente é valorizado" },
+      { "type": "p", "text": "Empresas não estão procurando pessoas que 'sabem usar ChatGPT' — isso já é esperado. O diferencial está em quem consegue aplicar essas ferramentas para resolver um problema específico do negócio." },
+      { "type": "h2", "text": "Erro comum a evitar" },
+      { "type": "p", "text": "Tentar aprender tudo de uma vez (programação, dados, dezenas de ferramentas) antes de começar a aplicar qualquer coisa. É melhor dominar bem uma aplicação prática do que ter conhecimento superficial de muitas." }
+    ],
+    "relatedSlugs": ["7-maneiras-de-usar-ia-para-aumentar-sua-produtividade", "ia-generativa-o-que-e-e-como-funciona"]
+  },
+  {
+    "slug": "ia-generativa-o-que-e-e-como-funciona",
+    "title": "IA generativa: o que é e como funciona?",
+    "excerpt": "Uma explicação sem jargão técnico sobre o tipo de Inteligência Artificial por trás de ferramentas como ChatGPT, Claude e Midjourney.",
+    "category": "inteligencia-artificial",
+    "date": "2026-07-02",
+    "updatedAt": "2026-07-02",
+    "readTime": 8,
+    "author": "Equipe Somos Impulso",
+    "coverGradient": "thumb-2",
+    "body": [
+      { "type": "p", "text": "IA generativa é o nome dado a sistemas de Inteligência Artificial capazes de criar conteúdo novo — texto, imagem, áudio, vídeo — a partir de um pedido em linguagem natural." },
+      { "type": "h2", "text": "A ideia por trás, sem matemática" },
+      { "type": "p", "text": "Esses sistemas foram treinados em uma quantidade enorme de texto, imagens ou áudio já existentes. A partir desse treinamento, aprenderam padrões — como as palavras costumam se conectar, como uma frase normalmente termina, como um pixel se relaciona com os vizinhos numa imagem." },
+      { "type": "h2", "text": "Por que as respostas parecem tão naturais" },
+      { "type": "p", "text": "O modelo não está 'buscando' uma resposta pronta em algum banco de dados — ele está gerando, palavra por palavra (ou pixel por pixel), o que estatisticamente faz mais sentido vir a seguir, dado tudo o que veio antes na conversa." },
+      { "type": "h2", "text": "Por que às vezes erra com confiança" },
+      { "type": "p", "text": "Como o modelo gera com base em padrões aprendidos, e não em uma checagem de fatos em tempo real, ele pode produzir informações erradas de forma bem escrita e convincente — o chamado 'alucinação'. Por isso é importante checar fatos específicos, datas e números em fontes confiáveis." },
+      { "type": "h2", "text": "Onde isso já está no seu dia a dia" },
+      { "type": "ul", "items": [
+        "Assistentes de texto (ChatGPT, Claude, Gemini).",
+        "Geração de imagem (Midjourney, e recursos de IA dentro do Canva).",
+        "Geração de voz e vídeo (ElevenLabs, Runway).",
+        "Sugestões de autocompletar em e-mails e editores de texto."
+      ]},
+      { "type": "p", "text": "Entender esse funcionamento básico ajuda a usar essas ferramentas com mais critério — sabendo quando confiar de olhos fechados e quando checar a resposta antes de usar." }
+    ],
+    "relatedSlugs": ["o-que-e-engenharia-de-prompt", "chatgpt-vs-claude-qual-escolher"]
+  }
+]

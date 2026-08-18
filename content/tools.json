@@ -1,0 +1,101 @@
+[
+  {
+    "slug": "chatgpt",
+    "name": "ChatGPT",
+    "maker": "OpenAI",
+    "category": "Geração de texto",
+    "description": "Assistente de IA para conversas, redação, resumo, programação e brainstorm, com aplicativo web e mobile.",
+    "pricing": "Consulte o site oficial",
+    "bestFor": "Uso geral no dia a dia, redação e produtividade",
+    "officialUrl": "https://chatgpt.com",
+    "tags": ["texto", "assistente", "produtividade"]
+  },
+  {
+    "slug": "claude",
+    "name": "Claude",
+    "maker": "Anthropic",
+    "category": "Geração de texto",
+    "description": "Assistente de IA da Anthropic, com foco em respostas cuidadosas, análise de documentos longos e programação.",
+    "pricing": "Consulte o site oficial",
+    "bestFor": "Análise de documentos, escrita e código",
+    "officialUrl": "https://claude.ai",
+    "tags": ["texto", "assistente", "codigo"]
+  },
+  {
+    "slug": "gemini",
+    "name": "Gemini",
+    "maker": "Google",
+    "category": "Geração de texto",
+    "description": "Assistente de IA do Google, integrado ao Gmail, Docs e outros produtos do ecossistema Google.",
+    "pricing": "Consulte o site oficial",
+    "bestFor": "Quem já usa o ecossistema Google no trabalho",
+    "officialUrl": "https://gemini.google.com",
+    "tags": ["texto", "assistente", "google"]
+  },
+  {
+    "slug": "perplexity",
+    "name": "Perplexity",
+    "maker": "Perplexity AI",
+    "category": "Pesquisa com IA",
+    "description": "Mecanismo de busca com IA que responde perguntas citando as fontes usadas.",
+    "pricing": "Consulte o site oficial",
+    "bestFor": "Pesquisa e checagem de informação com fontes",
+    "officialUrl": "https://www.perplexity.ai",
+    "tags": ["pesquisa", "fontes"]
+  },
+  {
+    "slug": "canva",
+    "name": "Canva",
+    "maker": "Canva",
+    "category": "Design",
+    "description": "Editor de design gráfico online com recursos de IA para gerar imagens, remover fundo e editar textos.",
+    "pricing": "Consulte o site oficial",
+    "bestFor": "Criar posts, apresentações e artes sem experiência em design",
+    "officialUrl": "https://www.canva.com",
+    "tags": ["design", "imagem", "redes sociais"]
+  },
+  {
+    "slug": "midjourney",
+    "name": "Midjourney",
+    "maker": "Midjourney, Inc.",
+    "category": "Geração de imagem",
+    "description": "Ferramenta de geração de imagens por IA, reconhecida pela qualidade artística dos resultados.",
+    "pricing": "Consulte o site oficial",
+    "bestFor": "Arte conceitual e imagens de alto impacto visual",
+    "officialUrl": "https://www.midjourney.com",
+    "tags": ["imagem", "arte"]
+  },
+  {
+    "slug": "runway",
+    "name": "Runway",
+    "maker": "Runway",
+    "category": "Geração de vídeo",
+    "description": "Suíte de ferramentas de IA para criação e edição de vídeo, incluindo geração de vídeo a partir de texto.",
+    "pricing": "Consulte o site oficial",
+    "bestFor": "Criadores de conteúdo em vídeo",
+    "officialUrl": "https://runwayml.com",
+    "tags": ["video", "edicao"]
+  },
+  {
+    "slug": "elevenlabs",
+    "name": "ElevenLabs",
+    "maker": "ElevenLabs",
+    "category": "Áudio e voz",
+    "description": "Geração de voz sintética realista e clonagem de voz para narrações, vídeos e podcasts.",
+    "pricing": "Consulte o site oficial",
+    "bestFor": "Narração de vídeos e podcasts",
+    "officialUrl": "https://elevenlabs.io",
+    "tags": ["audio", "voz"]
+  },
+  {
+    "slug": "notion-ai",
+    "name": "Notion AI",
+    "maker": "Notion",
+    "category": "Produtividade",
+    "description": "Recursos de IA integrados ao Notion para resumir, escrever e organizar anotações e projetos.",
+    "pricing": "Consulte o site oficial",
+    "bestFor": "Quem já organiza projetos e notas no Notion",
+    "officialUrl": "https://www.notion.so/product/ai",
+    "tags": ["produtividade", "organizacao"]
+  }
+]

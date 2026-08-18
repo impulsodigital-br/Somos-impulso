@@ -1,0 +1,10 @@
+[
+  { "slug": "inteligencia-artificial", "name": "Inteligência Artificial", "description": "Fundamentos, novidades e como aplicar IA no dia a dia." },
+  { "slug": "tecnologia", "name": "Tecnologia", "description": "Tendências e ferramentas que estão mudando a forma como trabalhamos." },
+  { "slug": "negocios", "name": "Negócios", "description": "Como usar tecnologia para vender mais e operar melhor." },
+  { "slug": "produtividade", "name": "Produtividade", "description": "Métodos e ferramentas para render mais com menos esforço." },
+  { "slug": "marketing-digital", "name": "Marketing Digital", "description": "Conteúdo, tráfego e vendas com apoio de IA." },
+  { "slug": "ferramentas", "name": "Ferramentas", "description": "Análises e comparativos de ferramentas de IA." },
+  { "slug": "guias", "name": "Guias", "description": "Tutoriais completos, passo a passo." },
+  { "slug": "noticias", "name": "Notícias", "description": "Atualizações relevantes do mundo da IA e tecnologia." }
+]
