@@ -1,7 +1,7 @@
 import { getAllArticles, getAllCategories } from "@/lib/content";
 import { SITE } from "@/lib/site";
 
-export default function sitemap() {
+export default async function sitemap() {
   const staticRoutes = [
     "", "artigos", "ferramentas", "sobre", "contato",
     "politica-de-privacidade", "termos-de-uso", "politica-de-cookies",
@@ -10,12 +10,14 @@ export default function sitemap() {
     lastModified: new Date(),
   }));
 
-  const articleRoutes = getAllArticles().map((a) => ({
+  const articles = await getAllArticles();
+  const articleRoutes = articles.map((a) => ({
     url: `${SITE.url}/artigos/${a.slug}`,
     lastModified: a.updatedAt || a.date,
   }));
 
-  const categoryRoutes = getAllCategories().map((c) => ({
+  const categories = await getAllCategories();
+  const categoryRoutes = categories.map((c) => ({
     url: `${SITE.url}/categoria/${c.slug}`,
     lastModified: new Date(),
   }));

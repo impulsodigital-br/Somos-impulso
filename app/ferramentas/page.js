@@ -8,8 +8,8 @@ export const metadata = buildMetadata({
   path: "/ferramentas",
 });
 
-export default function FerramentasPage() {
-  const tools = getAllTools();
+export default async function FerramentasPage() {
+  const tools = await getAllTools();
   return (
     <>
       <div className="page-header">

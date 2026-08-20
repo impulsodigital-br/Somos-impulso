@@ -9,8 +9,8 @@ function formatDate(dateStr) {
   });
 }
 
-export default function ArticleCard({ article }) {
-  const category = getCategoryBySlug(article.category);
+export default async function ArticleCard({ article }) {
+  const category = await getCategoryBySlug(article.category);
   return (
     <Link href={`/artigos/${article.slug}`} className="card">
       <div className={`card-thumb ${article.coverGradient || "thumb-1"}`} aria-hidden="true" />

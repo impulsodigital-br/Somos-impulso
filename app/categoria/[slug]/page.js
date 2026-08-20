@@ -3,12 +3,13 @@ import ArticleCard from "@/components/ArticleCard";
 import { getCategoryBySlug, getArticlesByCategory, getAllCategories } from "@/lib/content";
 import { buildMetadata } from "@/lib/seo";
 
-export function generateStaticParams() {
-  return getAllCategories().map((c) => ({ slug: c.slug }));
+export async function generateStaticParams() {
+  const categories = await getAllCategories();
+  return categories.map((c) => ({ slug: c.slug }));
 }
 
-export function generateMetadata({ params }) {
-  const category = getCategoryBySlug(params.slug);
+export async function generateMetadata({ params }) {
+  const category = await getCategoryBySlug(params.slug);
   if (!category) return buildMetadata({ path: `/categoria/${params.slug}` });
   return buildMetadata({
     title: category.name,
@@ -17,11 +18,11 @@ export function generateMetadata({ params }) {
   });
 }
 
-export default function CategoryPage({ params }) {
-  const category = getCategoryBySlug(params.slug);
+export default async function CategoryPage({ params }) {
+  const category = await getCategoryBySlug(params.slug);
   if (!category) notFound();
 
-  const articles = getArticlesByCategory(category.slug);
+  const articles = await getArticlesByCategory(category.slug);
 
   return (
     <>

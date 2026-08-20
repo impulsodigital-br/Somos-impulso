@@ -7,8 +7,8 @@ import { buildSearchIndex } from "@/lib/searchIndex";
 
 export const metadata = buildMetadata({});
 
-export default function RootLayout({ children }) {
-  const searchIndex = buildSearchIndex();
+export default async function RootLayout({ children }) {
+  const searchIndex = await buildSearchIndex();
 
   return (
     <html lang="pt-BR">

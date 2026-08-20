@@ -8,8 +8,8 @@ export const metadata = buildMetadata({
   path: "/artigos",
 });
 
-export default function ArtigosPage() {
-  const articles = getAllArticles();
+export default async function ArtigosPage() {
+  const articles = await getAllArticles();
   return (
     <>
       <div className="page-header">

@@ -6,12 +6,13 @@ import { getArticleBySlug, getAllArticles, getRelatedArticles, getCategoryBySlug
 import { buildMetadata, articleJsonLd, breadcrumbJsonLd } from "@/lib/seo";
 import { SITE } from "@/lib/site";
 
-export function generateStaticParams() {
-  return getAllArticles().map((a) => ({ slug: a.slug }));
+export async function generateStaticParams() {
+  const articles = await getAllArticles();
+  return articles.map((a) => ({ slug: a.slug }));
 }
 
-export function generateMetadata({ params }) {
-  const article = getArticleBySlug(params.slug);
+export async function generateMetadata({ params }) {
+  const article = await getArticleBySlug(params.slug);
   if (!article) return buildMetadata({ path: `/artigos/${params.slug}` });
   return buildMetadata({
     title: article.title,
@@ -42,12 +43,12 @@ function renderBlock(block, i) {
   return null;
 }
 
-export default function ArticlePage({ params }) {
-  const article = getArticleBySlug(params.slug);
+export default async function ArticlePage({ params }) {
+  const article = await getArticleBySlug(params.slug);
   if (!article) notFound();
 
-  const category = getCategoryBySlug(article.category);
-  const related = getRelatedArticles(article);
+  const category = await getCategoryBySlug(article.category);
+  const related = await getRelatedArticles(article);
   const shareUrl = `${SITE.url}/artigos/${article.slug}`;
 
   return (

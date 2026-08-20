@@ -13,10 +13,10 @@ export const metadata = buildMetadata({
   path: "/",
 });
 
-export default function HomePage() {
-  const featured = getFeaturedArticles(3);
-  const recent = getRecentArticles(6, featured.map((a) => a.slug));
-  const tools = getAllTools().slice(0, 3);
+export default async function HomePage() {
+  const featured = await getFeaturedArticles(3);
+  const recent = await getRecentArticles(6, featured.map((a) => a.slug));
+  const tools = (await getAllTools()).slice(0, 3);
 
   return (
     <>

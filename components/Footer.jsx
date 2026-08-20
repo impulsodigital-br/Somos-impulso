@@ -3,8 +3,8 @@ import Image from "next/image";
 import { SITE, FOOTER_NAV } from "@/lib/site";
 import { getAllCategories } from "@/lib/content";
 
-export default function Footer() {
-  const categories = getAllCategories().slice(0, 4);
+export default async function Footer() {
+  const categories = (await getAllCategories()).slice(0, 4);
   return (
     <footer>
       <div className="footer-grid">
