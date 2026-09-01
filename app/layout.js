@@ -4,7 +4,6 @@ import Footer from "@/components/Footer";
 import JsonLd from "@/components/JsonLd";
 import { buildMetadata, organizationJsonLd } from "@/lib/seo";
 import { buildSearchIndex } from "@/lib/searchIndex";
-import { Analytics } from "@vercel/analytics/next";
 
 export const metadata = buildMetadata({});
 
@@ -43,7 +42,6 @@ export default async function RootLayout({ children }) {
         <Header searchIndex={searchIndex} />
         <main>{children}</main>
         <Footer />
-        <Analytics />
       </body>
     </html>
   );
